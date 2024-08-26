@@ -1,2 +1,1 @@
-# prog-ninja
-Site em desenvolvimento como atividade da faculdade.
+https://jpeodr.github.io/prog-ninja/
